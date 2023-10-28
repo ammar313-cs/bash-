@@ -5,7 +5,7 @@ github_username="your own username"
 github_repo="your-repo name"
 
 
-ssh_key_path="~/.ssh/id_rsa"
+ssh_key_path="$HOME/.ssh/id_rsa"
 
 
 ssh-keygen -t rsa -C "your_email@example.com should be given here"

@@ -6,7 +6,7 @@ github_repo="bash-"
 
 
 
-commit_message="2nd commit"
+commit_message="3rd commit"
 
 
 git init
